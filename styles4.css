@@ -1,0 +1,25 @@
+.button button {
+  font-weight: bold;
+  border: 1px solid black;
+}
+
+.row {
+  align-self: center;
+}
+
+.row > div {
+  padding: 20px;
+  background-color: #FAEBD7;
+  margin: 5px;
+  align-items: center;
+}
+
+h1 {
+  padding: 20px;
+  text-align: center;
+  font-size: 60px;
+}
+
+#yanni:hover {
+  width: 100%;
+}
