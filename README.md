@@ -1,5 +1,5 @@
 # project0
-HTML,CSS.SASS
+HTML,CSS,SASS
 
 This is about my self. 
 The front page contains my basic details and it has links for my favorites.
