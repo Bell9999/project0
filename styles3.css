@@ -1,0 +1,9 @@
+.row>div{
+	padding: 20px;
+    background-color: teal;
+    margin: 5px;
+}
+p{
+    font-weight:bold;
+    text-align: center;
+}
