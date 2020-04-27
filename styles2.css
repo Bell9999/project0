@@ -1,0 +1,15 @@
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+.row>div{
+  background-color: yellow;
+  font-size: 17px;
+  padding: 25px;
+  width: 250px;
+  height: 270px;
+}
+#a1::before{
+  content: "\21d2";
+  font-weight: bold;
+}
