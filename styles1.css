@@ -1,0 +1,31 @@
+.row{
+        display: flex;
+        flex-wrap: wrap;
+}
+.row>div{
+        background-color: springgreen;
+        font-size: 17px;
+        padding: 15px;
+        width: 250px;
+        height: 270px;
+}
+.row1{
+        background-color: yellow;
+        padding: 5px;
+        margin: 20px;
+        width: 120px;
+        height: 110px;
+}
+@media(min-width: 500px){
+        h1::before{
+        	content: "Hello, world! This is me.";
+        	}
+}
+@media(max-width: 499px){
+        h1::before{
+        	content: "This is me."
+        	}
+        }
+p1{
+	font-weight: bold;
+}
